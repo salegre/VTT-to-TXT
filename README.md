@@ -6,5 +6,3 @@ To use the script:
 2. Make sure nothing important is in the `output` folder. Its contents will be deleted.
 3. Run `main.py`.
 4. Copy the parsed files from the `output` folder.
-
-Better version used in [`utils.get_sub_contents()`](https://github.com/lewisforbes/Transcript-Evaluator/blob/main/utils.py)
